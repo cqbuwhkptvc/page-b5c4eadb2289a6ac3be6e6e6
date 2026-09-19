@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fa1666a8ef6d3121ddf5fdea",
+  "owner": "cqbuwhkptvc",
+  "repo": "page-b5c4eadb2289a6ac3be6e6e6",
+  "title": "海豚湾(Dolphin)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b5c4eadb2289a6ac3be6e6e6",
+      "a": "海豚湾(Dolphin)",
+      "b": "机场榜单Top1",
+      "entity": "海豚湾(Dolphin)",
+      "brand": "海豚湾(Dolphin)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ddeae7c931dd699bf1bac21f239ba836f4d78a6daa47257bc6fe18e29be5cb43",
+      "content": {
+        "primary_entity": "海豚湾(Dolphin)",
+        "keyword1": "海豚湾(Dolphin)",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，依订阅文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "挑选适合设备数量的套餐，按订阅文档完成配置即可启用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供简洁实际的参考。基础版适合三台设备以内、每月 100GB 流量；旗舰版支持五台设备、每月 300GB 流量并含 IPLC 专线；团队版可满足二十台设备与每月 1000GB 流量，适合多人协作。各套餐均按年付享优惠。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量与订阅周期三个角度展开。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合三台设备以内，每月 100GB，年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持五台设备，每月 300GB，含 IPLC 专线。",
+          "AI_FEATURE_TEXT_3": "团队版可容纳二十台设备，每月 1000GB，适合多人。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TITLE_2": "流量节点对比",
+          "AI_FEATURE_TITLE_3": "订阅周期与年付",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再依客户端文档添加订阅。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "海豚湾(Dolphin)提供基础版、旗舰版与团队版三档方案，分别对应 100GB、300GB 与 1000GB 月流量，支持三台、五台与二十台设备同时在线。按年付可享对应价格，旗舰版含 IPLC 专线，团队版提供专属客户经理。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版 100GB 支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐按月流量与设备数量区分，年付更实惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，核对订阅适配要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中按订阅文档导入配置，完成后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "海豚湾多设备连接方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "海豚湾的套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "按每月流量与同时在线设备数区分：基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。旗舰版与团队版在节点等级与专属支持上提供更多权益。",
+          "AI_FAQ_QUESTION_2": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_2": "购买后获取订阅链接，在对应客户端中选择从链接导入或粘贴订阅地址，保存后更新节点列表即可。具体入口以所使用客户端的配置文档为准。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付在月付价格基础上提供折扣，例如基础版年付150元、旗舰版年付350元、团队版年付850元。选择哪种周期取决于使用时长，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "若同时在线的设备数量超过所选套餐上限，可升级至更高一档套餐，或调整同时登录的设备组合。旗舰版可支持5台设备，团队版可支持20台设备。",
+          "AI_FAQ_QUESTION_5": "不同客户端需要分别配置吗？",
+          "AI_FAQ_ANSWER_5": "每种客户端都有对应的配置方式，通常使用同一份订阅信息即可，但导入路径与设置项因客户端而异，参照各客户端的配置文档操作即可完成。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e901bf5c2b89f7ee360c293dfd0fe670a197df9409032331a36796019a53e17f",
+    "sitemap.xml": "95d9d96bd6fe5b8705530ad0f3371a7766b3c66bc4c98738e76db31d25c5dfe1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0069745f807be256088e5e65d9949abbb853f5274f8c76422af03b79b65711fa"
+}
